@@ -1,1 +1,1 @@
-[link](http://biztory.com)
+[Biztory](http://biztory.com)
